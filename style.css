@@ -1,0 +1,706 @@
+@charset "utf-8";
+.location_icon
+{
+	height: 20px;
+	width: 17px;
+	margin-top: 13.5px;
+	margin-bottom: 10px;
+	margin-left: -185px;
+}
+
+.help_icon
+{
+	height: 20px;
+	width: 20px;
+	margin-top: -90px;
+	margin-bottom: 17px;
+	margin-left: -920px;
+	margin-right: 720px;
+}
+
+.wish_icon
+{
+	height: 20px;
+	width: 25px;
+	margin-top: -90px;
+	margin-bottom: 17px;
+	margin-left: -90px;
+	margin-right: 120px;
+}
+
+.login_icon
+{
+	height: 20px;
+	width: 20px;
+	margin-top: -90px;
+	margin-bottom: 17px;
+}
+
+.postcode
+{
+	margin-left: 200px;
+}
+
+.help
+{
+	margin-top: -36px;
+	margin-left: 25px
+	
+}
+
+.wish
+{
+	margin-top: -36px;
+	margin-left: 550px
+}
+
+.login-join
+{
+	margin-top: -36px;
+	margin-left: 30px
+}
+
+.navbar 
+{
+	display: inline-block;
+	overflow: hidden;
+	background-color:#8689AE;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color:#EEEEEE;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover 
+{
+	text-decoration: underline;
+	color:#FFFFFF
+}
+
+.vertical
+{
+	border-left: 2px solid white;
+	height: 25px;
+	margin-left: 375px;
+	margin-top: -35px;
+}
+
+.main-bar
+{
+	background-color: #EBEDEF;
+	width: 100%;
+}
+
+.logo
+{
+	width: 60px;
+	margin-top: 70px;
+	margin-left: 185px;
+	margin-bottom: 20px;
+}
+
+.title
+{
+	width: 200px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
+
+.form
+{
+	width: 700px;
+	height: 70px;
+	margin-left: 600px;
+	margin-top: -65px;
+	position: center;
+}
+
+.search-bar
+{
+	width: 400px;
+	height: 40px;
+	border: thin;
+	border-radius: 5px;
+}
+
+.search-button
+{
+	width: 90px;
+	height: 40px;
+	margin-left: -5px;
+	background-color: #B6BBFF;
+	border: thin;
+	border-radius: 5px;
+	cursor: pointer;
+	
+}
+
+.shopping-button
+{
+	width: 90px;
+	height: 40px;
+	margin-left: 110px;
+	background-color: #B6BBFF;
+	border: thin;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.cart
+{
+	height: 20px;
+	width: 65px;
+}
+.search
+{
+	height: 12px;
+	width: 11px;
+}
+
+.menu
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+.menu:hover
+{
+	text-decoration: underline;
+}
+
+.books
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+}
+
+.books:hover
+{
+	text-decoration: underline;
+}
+
+.textbooks
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+}
+
+.textbooks:hover
+{
+	text-decoration: underline;
+}
+
+.ebooks
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+}
+
+.ebooks:hover
+{
+	text-decoration: underline;
+}
+
+.games-and-puzzles
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+}
+
+.games-and-puzzles:hover
+{
+	text-decoration: underline;
+}
+
+.stationery
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+}
+
+.stationery:hover
+{
+	text-decoration: underline;
+}
+
+.about
+{
+	width: 20px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: -2px;
+	margin-left: 75px;
+	background-color: transparent;
+	border-style: none;
+}
+
+.about:hover
+{
+	text-decoration: underline;
+}
+
+hr { 
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 190px;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 2px;
+	width: 1100px
+} 
+
+.ad
+{
+	margin-left: 190px;
+	margin-top: 50px;
+	width: 1090px
+}
+
+.releases
+{
+	margin-left: 190px;
+	margin-top: 60px;
+	font-weight:700;
+	font-family: Arial;
+	margin-bottom: 40px;
+}
+
+.NR1
+{
+	margin-left: 220px;
+	width: 100px;
+}
+
+.NR2
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR3
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR4
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR5
+{
+	margin-left: 30px;
+	width: 100px;
+}
+.NR6
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR7
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR8
+{
+	margin-left: 30px;
+	width: 100px;
+}
+
+.NR1:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR2:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR3:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR4:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR5:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR6:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR7:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.NR8:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.5);
+}
+
+.outer {
+  margin-left: 650px;
+}
+
+.button {
+    border: 2px solid #8689AE;
+    border-radius: 7px;
+    width: 168px;
+    height: 30px;
+    background: -webkit-linear-gradient(left, #8689AE 50%, white 50%);
+    background: -o-linear-gradient(left, #8689AE 50%, white 50%);
+    background: linear-gradient(to right, #8689AE 50%, white 50%);
+  	background-size: 200% 100%;
+  	background-position: right bottom;
+  	transition: all .3s ease-out;
+	cursor: pointer;
+}
+
+.button:hover {
+  	background-position: left bottom;
+}
+
+.text {
+ 	text-align: center;
+	line-height: 30px; 
+	color: #8689AE;
+	transition: all .3s ease-out;
+	display: block;
+	font-weight: 500;
+}
+
+.text:hover {
+  	color: white;  
+}
+
+.advertisement1
+{
+	width: 320px;
+	margin-left: 210px;
+}
+
+.advertisement2
+{
+	width: 320px;
+	margin-left: 40px;
+}
+
+.advertisement3
+{
+	width: 320px;
+	margin-left: 40px;
+}
+
+.Genres
+{
+	background-color: #E4F2EB;
+}
+
+.fiction
+{
+	margin-left: 255px;
+	font-size: 20px;
+}
+
+.non-fiction
+{
+	margin-left: 110px;
+	font-size: 20px;
+}
+
+.fantasy
+{
+	margin-left: 110px;
+	font-size: 20px;
+}
+
+.horror
+{
+	margin-left: 130px;
+	font-size: 20px;
+}
+
+.mystory
+{
+	margin-left: 135px;
+	font-size: 20px;
+}
+
+.hystorical
+{
+	margin-left: 120px;
+	font-size: 20px;
+}
+
+.crime
+{
+	margin-left: 255px;
+	font-size: 20px;
+}
+
+.comedy
+{
+	margin-left: 135px;
+	font-size: 20px;
+}
+
+.romance
+{
+	margin-left: 120px;
+	font-size: 20px;
+}
+
+.sci-fi
+{
+	margin-left: 120px;
+	font-size: 20px;
+}
+
+.rom-com
+{
+	margin-left: 125px;
+	font-size: 20px;
+}
+
+.adventure
+{
+	margin-left: 110px;
+	font-size: 20px;
+}
+
+.B1
+{
+	margin-left: 215px;
+	width: 140px;
+	margin-top: -40px;
+}
+
+.B1:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.2);
+}
+
+.themes
+{
+	margin-left: 190px;
+	font-weight:700;
+	font-family: Arial;
+	margin-bottom: 20px;
+}
+
+.B2
+{
+	margin-left: 50px;
+	width: 140px;
+}
+
+.B2:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.2);
+}
+
+.B3
+{
+	margin-left: 215px;
+	width: 140px;
+	margin-top: 60px;
+}
+
+.B3:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.2);
+}
+
+.B4
+{
+	margin-left: 50px;
+	width: 140px;
+}
+
+.B4:hover
+{
+	transition: transform 0.3s ease-in-out;
+	transform: scale(1.2);
+}
+
+.footer
+{
+	background-color: #F8F8F8;
+}
+
+.footer2
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 19px;
+}
+
+.footer3
+{
+	background-color: #5B5B5B;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.social-media1
+{
+	width: 220px;
+	margin-top: 40px;
+	margin-left: 220px;
+	
+}
+
+.social-media2
+{
+	width: 220px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+}
+
+.social-media3
+{
+	width: 30px;
+	margin-top: 40px;
+	margin-left: 20px;
+	
+}
+
+.social-media4
+{
+	width: 30px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+}
+
+.social-media5
+{
+	width: 30px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+}
+
+.social-media6
+{
+	width: 26px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+}
+
+.social-media7
+{
+	width: 30px;
+	height: 40px;
+	margin-top: 40px;
+	margin-left: 10px;
+	
+}
+
+.social-media8
+{
+	width: 36px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+
+.botton-line:hover
+{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.outer2 {
+  margin-left: 650px;
+}
+
+.button2 {
+    border: 2px solid #8689AE;
+    border-radius: 7px;
+    width: 168px;
+    height: 30px;
+    background: -webkit-linear-gradient(left, #8689AE 50%, #E4F2EB 50%);
+    background: -o-linear-gradient(left, #8689AE 50%, #E4F2EB 50%);
+    background: linear-gradient(to right, #8689AE 50%, #E4F2EB 50%);
+  	background-size: 200% 100%;
+  	background-position: right bottom;
+  	transition: all .3s ease-out;
+	cursor: pointer;
+}
+
+.button2:hover {
+  	background-position: left bottom;
+}
+
+.text2 {
+ 	text-align: center;
+	line-height: 30px; 
+	color: #8689AE;
+	transition: all .3s ease-out;
+	display: block;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.text2:hover {
+  	color: white;  
+}
